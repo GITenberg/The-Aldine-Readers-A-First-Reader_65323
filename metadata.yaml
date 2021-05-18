@@ -1,0 +1,28 @@
+_repo: The-Aldine-Readers-A-First-Reader_65323
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Webb, Margaret Ely
+    gutenberg_agent_id: '37037'
+    url: http://www.gutenberg.org/2009/agents/37037
+creator:
+  authors:
+  - agent_name: Spaulding, Frank E.
+    gutenberg_agent_id: '53289'
+    url: http://www.gutenberg.org/2009/agents/53289
+  - agent_name: Bryce, Catherine T.
+    gutenberg_agent_id: '53290'
+    url: http://www.gutenberg.org/2009/agents/53290
+description: ''
+gutenberg_issued: '2021-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65323'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Aldine Readers: A First Reader'
+url: http://www.gutenberg.org/ebooks/65323
