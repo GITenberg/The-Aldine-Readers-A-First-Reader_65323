@@ -1,10 +1,13 @@
 _repo: The-Aldine-Readers-A-First-Reader_65323
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Webb, Margaret Ely
     gutenberg_agent_id: '37037'
     url: http://www.gutenberg.org/2009/agents/37037
+covers:
+- cover_type: archival
+  image_path: 65323-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Spaulding, Frank E.
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '53290'
     url: http://www.gutenberg.org/2009/agents/53290
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65323#The-Aldine-Readers-A-First-Reader
 gutenberg_issued: '2021-05-12'
 gutenberg_type: Text
 identifiers:
